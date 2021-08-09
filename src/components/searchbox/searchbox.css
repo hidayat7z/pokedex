@@ -1,0 +1,9 @@
+.search {
+    border: none;
+    padding: 15px;
+    width: 300px;
+    border: 5px solid #120136;
+    border-radius: 10px;         /*added by me*/
+    margin: 15px;
+    font-family: 'Press Start 2P', cursive;
+}
